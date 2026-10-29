@@ -1,0 +1,48 @@
+{
+ "edge": [
+  {
+   "delta": 0.01,
+   "slip_rate_rad_per_step": -6.5783008666539956e-06
+  },
+  {
+   "delta": 0.014,
+   "slip_rate_rad_per_step": -4.441134255458027e-06
+  },
+  {
+   "delta": 0.015,
+   "slip_rate_rad_per_step": -2.4602317725344466e-07
+  },
+  {
+   "delta": 0.0155,
+   "slip_rate_rad_per_step": -1.1625422006827076e-05
+  },
+  {
+   "delta": 0.016,
+   "slip_rate_rad_per_step": 0.0029569748312722162
+  },
+  {
+   "delta": 0.017,
+   "slip_rate_rad_per_step": 0.005102187049006019
+  },
+  {
+   "delta": 0.018,
+   "slip_rate_rad_per_step": 0.007042194485367261
+  },
+  {
+   "delta": 0.019,
+   "slip_rate_rad_per_step": 0.00873185898518897
+  },
+  {
+   "delta": 0.02,
+   "slip_rate_rad_per_step": 0.009947495275863309
+  },
+  {
+   "delta": 0.022,
+   "slip_rate_rad_per_step": 0.012206062130578768
+  },
+  {
+   "delta": 0.025,
+   "slip_rate_rad_per_step": 0.010248553658474756
+  }
+ ]
+}

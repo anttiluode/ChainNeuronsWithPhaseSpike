@@ -1,0 +1,517 @@
+{
+ "relay2": [
+  {
+   "delta": 0.008,
+   "dist": 3.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.008,
+   "dist": 3.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.008,
+   "dist": 3.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.008,
+   "dist": 4.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.008,
+   "dist": 4.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.008,
+   "dist": 4.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.008,
+   "dist": 5.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.008,
+   "dist": 5.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.008,
+   "dist": 5.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 3.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 3.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 3.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 4.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 4.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 4.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 5.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 5.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.011,
+   "dist": 5.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 0,
+    "sender": 0
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 3.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 6,
+    "sender": 6
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 6,
+    "sender": 6
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 3.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 6,
+    "sender": 6
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 6,
+    "sender": 6
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 3.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 6,
+    "sender": 5
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 6,
+    "sender": 6
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 4.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 5,
+    "sender": 5
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 5,
+    "sender": 5
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 4.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 5,
+    "sender": 5
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 5,
+    "sender": 5
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 4.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 5,
+    "sender": 5
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 5,
+    "sender": 5
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 5.0,
+   "amp": 0.08,
+   "sender+receiver": {
+    "receiver": 4,
+    "sender": 4
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 4,
+    "sender": 5
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 5.0,
+   "amp": 0.12,
+   "sender+receiver": {
+    "receiver": 4,
+    "sender": 4
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 4,
+    "sender": 5
+   },
+   "valid_design": false,
+   "relayed": false
+  },
+  {
+   "delta": 0.013,
+   "dist": 5.0,
+   "amp": 0.2,
+   "sender+receiver": {
+    "receiver": 3,
+    "sender": 3
+   },
+   "receiver_only": {
+    "receiver": 0,
+    "sender": null
+   },
+   "sender+receiver_nopulse": {
+    "receiver": 4,
+    "sender": 5
+   },
+   "valid_design": false,
+   "relayed": false
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "gate": [
+  {
+   "write_amp": -0.4,
+   "retained_dD": 2.700413465499878,
+   "slips_during_write": 2,
+   "trigger_slips": 0,
+   "trigger_peak": 1.4868279695510864
+  },
+  {
+   "write_amp": -0.35000000000000003,
+   "retained_dD": -1.8771904706954956,
+   "slips_during_write": 1,
+   "trigger_slips": 0,
+   "trigger_peak": 1.658199667930603
+  },
+  {
+   "write_amp": -0.30000000000000004,
+   "retained_dD": -1.898846983909607,
+   "slips_during_write": 1,
+   "trigger_slips": 0,
+   "trigger_peak": 1.6529744863510132
+  },
+  {
+   "write_amp": -0.25,
+   "retained_dD": -1.733343482017517,
+   "slips_during_write": 1,
+   "trigger_slips": 0,
+   "trigger_peak": 1.605237603187561
+  },
+  {
+   "write_amp": -0.2,
+   "retained_dD": -1.4282892942428589,
+   "slips_during_write": 1,
+   "trigger_slips": 0,
+   "trigger_peak": 1.3836647272109985
+  },
+  {
+   "write_amp": -0.15000000000000002,
+   "retained_dD": -1.1355422735214233,
+   "slips_during_write": 1,
+   "trigger_slips": 0,
+   "trigger_peak": 1.0325297117233276
+  },
+  {
+   "write_amp": -0.09999999999999998,
+   "retained_dD": 0.041604217141866684,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.797562599182129
+  },
+  {
+   "write_amp": -0.04999999999999999,
+   "retained_dD": 0.2917320132255554,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.887584686279297
+  },
+  {
+   "write_amp": 0.0,
+   "retained_dD": 0.5213878154754639,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.939823627471924
+  },
+  {
+   "write_amp": 0.04999999999999999,
+   "retained_dD": 0.7381597757339478,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.976149559020996
+  },
+  {
+   "write_amp": 0.09999999999999998,
+   "retained_dD": 0.9485365152359009,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.990702152252197
+  },
+  {
+   "write_amp": 0.15000000000000002,
+   "retained_dD": 1.1591055393218994,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.975294589996338
+  },
+  {
+   "write_amp": 0.20000000000000007,
+   "retained_dD": 1.3769404888153076,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.951374530792236
+  },
+  {
+   "write_amp": 0.25,
+   "retained_dD": 1.6096341609954834,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.919031143188477
+  },
+  {
+   "write_amp": 0.30000000000000004,
+   "retained_dD": 1.8567721843719482,
+   "slips_during_write": 0,
+   "trigger_slips": 1,
+   "trigger_peak": 6.86457633972168
+  },
+  {
+   "write_amp": 0.35,
+   "retained_dD": 0.8377644419670105,
+   "slips_during_write": 1,
+   "trigger_slips": 1,
+   "trigger_peak": 6.981746673583984
+  },
+  {
+   "write_amp": 0.4,
+   "retained_dD": 0.9288365244865417,
+   "slips_during_write": 1,
+   "trigger_slips": 1,
+   "trigger_peak": 6.989676475524902
+  }
+ ]
+}

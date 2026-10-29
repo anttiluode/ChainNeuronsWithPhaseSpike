@@ -1,0 +1,132 @@
+{
+ "relay": [
+  {
+   "dist": 3.0,
+   "arm": "sender+receiver",
+   "amp": 0.0,
+   "receiver_slips": 7,
+   "receiver_peak": 43.333717346191406,
+   "sender_slips": 7
+  },
+  {
+   "dist": 3.0,
+   "arm": "sender+receiver",
+   "amp": 0.2,
+   "receiver_slips": 7,
+   "receiver_peak": 42.77399444580078,
+   "sender_slips": 7
+  },
+  {
+   "dist": 3.0,
+   "arm": "receiver_only",
+   "amp": 0.0,
+   "receiver_slips": 0,
+   "receiver_peak": 0.6239277124404907,
+   "sender_slips": null
+  },
+  {
+   "dist": 3.0,
+   "arm": "receiver_only",
+   "amp": 0.2,
+   "receiver_slips": 1,
+   "receiver_peak": 6.476223468780518,
+   "sender_slips": null
+  },
+  {
+   "dist": 4.0,
+   "arm": "sender+receiver",
+   "amp": 0.0,
+   "receiver_slips": 6,
+   "receiver_peak": 40.04631042480469,
+   "sender_slips": 6
+  },
+  {
+   "dist": 4.0,
+   "arm": "sender+receiver",
+   "amp": 0.2,
+   "receiver_slips": 6,
+   "receiver_peak": 40.66365051269531,
+   "sender_slips": 5
+  },
+  {
+   "dist": 4.0,
+   "arm": "receiver_only",
+   "amp": 0.0,
+   "receiver_slips": 0,
+   "receiver_peak": 0.6187270879745483,
+   "sender_slips": null
+  },
+  {
+   "dist": 4.0,
+   "arm": "receiver_only",
+   "amp": 0.2,
+   "receiver_slips": 1,
+   "receiver_peak": 6.478333950042725,
+   "sender_slips": null
+  },
+  {
+   "dist": 5.0,
+   "arm": "sender+receiver",
+   "amp": 0.0,
+   "receiver_slips": 6,
+   "receiver_peak": 37.45622634887695,
+   "sender_slips": 6
+  },
+  {
+   "dist": 5.0,
+   "arm": "sender+receiver",
+   "amp": 0.2,
+   "receiver_slips": 6,
+   "receiver_peak": 37.22060012817383,
+   "sender_slips": 6
+  },
+  {
+   "dist": 5.0,
+   "arm": "receiver_only",
+   "amp": 0.0,
+   "receiver_slips": 0,
+   "receiver_peak": 0.623935341835022,
+   "sender_slips": null
+  },
+  {
+   "dist": 5.0,
+   "arm": "receiver_only",
+   "amp": 0.2,
+   "receiver_slips": 1,
+   "receiver_peak": 6.47416353225708,
+   "sender_slips": null
+  },
+  {
+   "dist": 7.0,
+   "arm": "sender+receiver",
+   "amp": 0.0,
+   "receiver_slips": 4,
+   "receiver_peak": 26.6800537109375,
+   "sender_slips": 5
+  },
+  {
+   "dist": 7.0,
+   "arm": "sender+receiver",
+   "amp": 0.2,
+   "receiver_slips": 4,
+   "receiver_peak": 26.575927734375,
+   "sender_slips": 4
+  },
+  {
+   "dist": 7.0,
+   "arm": "receiver_only",
+   "amp": 0.0,
+   "receiver_slips": 0,
+   "receiver_peak": 0.6239277124404907,
+   "sender_slips": null
+  },
+  {
+   "dist": 7.0,
+   "arm": "receiver_only",
+   "amp": 0.2,
+   "receiver_slips": 1,
+   "receiver_peak": 6.479198932647705,
+   "sender_slips": null
+  }
+ ]
+}

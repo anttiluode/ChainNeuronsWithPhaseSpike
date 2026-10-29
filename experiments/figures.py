@@ -1,5 +1,6 @@
 """Figures for the README: phase spikes moved by memory, and transmission vs distance."""
 import json
+import math
 import os
 import sys
 
@@ -62,6 +63,29 @@ def transmission_figure(out="results/fig_transmission.png"):
     fig.tight_layout(); fig.savefig(out, dpi=90); plt.close(fig)
 
 
+def theta_figure(out="results/fig_theta_neuron.png"):
+    th = json.load(open("results/theta/threshold.json"))["threshold"]
+    win = json.load(open("results/theta/window.json"))["window"]
+    gate = json.load(open("results/theta/gate.json"))["gate"]
+    edge = json.load(open("results/theta/edge.json"))["edge"]
+    fig, ax = plt.subplots(1, 4, figsize=(17, 3.6))
+    for key, lab in (("0.015", "near-complement δ=0.015"), ("0.0", "exact complement δ=0")):
+        r = th[key]
+        ax[0].plot([x["amp"] for x in r], [x["plus"]["peak"] for x in r], "o-", label=lab)
+    ax[0].axhline(2 * math.pi, color="k", lw=0.5, ls=":"); ax[0].set_xlabel("pulse amplitude")
+    ax[0].set_ylabel("peak sum-phase excursion (rad)"); ax[0].legend(fontsize=7)
+    ax[0].set_title("threshold and all-or-none 2π slip", fontsize=9)
+    ax[1].bar([x["carrier_phase"] for x in win], [x["slips"] for x in win], width=0.35)
+    ax[1].set_xlabel("trigger carrier phase (rad)"); ax[1].set_ylabel("spikes"); ax[1].set_title("firing window", fontsize=9)
+    ax[2].scatter([g["retained_dD"] for g in gate], [g["trigger_slips"] for g in gate], c=["C2" if g["trigger_slips"] else "C3" for g in gate])
+    ax[2].set_xlabel("stored difference phase D (rad)"); ax[2].set_ylabel("same trigger fires?")
+    ax[2].set_title("memory decides what fires it", fontsize=9)
+    ax[3].plot([e["delta"] for e in edge], [max(e["slip_rate_rad_per_step"], 0) for e in edge], "o-")
+    ax[3].set_xlabel("detuning δ"); ax[3].set_ylabel("spontaneous slip rate"); ax[3].set_title("locking edge (tonic beyond)", fontsize=9)
+    fig.tight_layout(); fig.savefig(out, dpi=90); plt.close(fig)
+
+
 if __name__ == "__main__":
     spike_figure()
     transmission_figure()
+    theta_figure()
